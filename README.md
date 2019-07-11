@@ -1,18 +1,18 @@
 # Azure-Runbook-ScalingPowerBICapacity
 Azure Runbook for scaling PowerBI Embedded Capacity on workdays using a registered application credentials
 
-#Usage
+# Usage
 
-##Automation Account
+## Automation Account
 
-##Variables
+## Variables
 
-##Link Schedule
+## Link Schedule
 
 
-#Contributing
+# Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
-#License
+# License
 MIT
